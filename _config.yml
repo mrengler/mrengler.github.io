@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Data Scientist"
-  avatar           : "images/profile.png"
+  avatar           : "profile.png"
   bio              : "TODO: short bio here"
   location         : "Austin, TX"
   employer         :
