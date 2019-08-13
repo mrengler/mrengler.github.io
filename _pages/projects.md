@@ -25,3 +25,9 @@ As part of my research, I also co-authored a blog post on [the state of healthca
 One of the more fun whitepapers I've written was at Cyence, a startup in the cyber insurance space. I researched and drafted a [realistic threat scenario](https://www.aon.com/reinsurance/gimo/20181025-gimo-cyber) for an attack on a dam, through its ICS systems.
 
 ## Miscellaneous
+
+[ScrAPD](scrapd.org) is "a small utility designed to help organizations retrieving traffic fatality data in a friendly manner." I contributed to the package as part of some work with [Open Austin](https://www.open-austin.org/), and co-maintain the parser, which scrapes the Austin Police Department's website and social media accounts.
+
+Research I did as an undergraduate was published in PLOS ONE: [Somatic mutations render human exome and pathogen DNA more similar](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197949).
+
+I gained my first exposure to NLP doing [multiple narrative disentanglement](http://cs229.stanford.edu/proj2016/poster/EnglerHarvey-MultipleNarrativeDisentanglement-Poster.pdf) for Andrew Ng's Machine Learning class.
