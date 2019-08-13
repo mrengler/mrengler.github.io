@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##Education
+## Education
 ======
 * **M.S. in Electrical Engineering**, Stanford University
   * Relevant coursework: Artificial Intelligence, Data Mining, Convex Optimization, Computer Vision
@@ -18,7 +18,7 @@ redirect_from:
   * Relevant coursework: Machine Learning, Statistical Inference, Probabilistic Systems Analysis
 
 
-##Professional Experience
+## Professional Experience
 ======
 * **Data Scientist**, Duo Security (Sep 2018 - Present)
   * As part of the Duo Labs team, I focus on behavioral analytics to detect fraudulent login attempts. I also build models and tooling for internal consulting work.
@@ -38,12 +38,12 @@ redirect_from:
 * **Signals Intelligence Collection Program**, National Security Agency (Jun 2015 - Aug 2015)
   * Automated deobfuscation of binary files using a variety of cryptologic techniques.
   
-##Skills
+## Skills
 ======
 * **Languages/Frameworks:** Python, R, Spark, SQL, MATLAB, C++, C
 * **Packages:** numpy, scipy, scikit-learn, Pandas, matplotlib, pytorch
 
-##Projects & Volunteer Work
+## Projects & Volunteer Work
 ======
 * Co-maintainer of ScrAPD, a data platform to surface traffic fatality information and visualization
 * Multiple Narrative Disentanglement in David Foster Wallace’s Infinite Jest (NLP)
