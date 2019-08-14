@@ -8,7 +8,10 @@ main:
         
   - title: "Blog Posts"
     url: /blog/
-    
+
+  - title: "Reading List"
+    url: /reading/
+
   - title: "CV"
     url: /cv/
 
