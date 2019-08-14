@@ -3,7 +3,7 @@ title: 'Constraints on Adversarial Examples'
 id: 1
 excerpt: My thoughts on why implicit constraints could hold the key to usable adversarial examples.
 date: 2019-08-13
-permalink: /posts/2012/08/adversarial-examples-constraints/
+permalink: /posts/2019/08/adversarial-examples-constraints/
 tags:
   - adversarial learning
   - machine learning
