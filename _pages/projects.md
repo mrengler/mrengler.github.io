@@ -22,7 +22,7 @@ As part of my research, I also co-authored a blog post on [the state of healthca
 
 ## Cyence
 
-One of the more fun whitepapers I've written was at Cyence, a startup in the cyber insurance space. I researched and drafted a [realistic threat scenario](https://www.aon.com/reinsurance/gimo/20181025-gimo-cyber) for an attack on a dam, through its ICS systems.
+One of the more fun whitepapers I've written was at Cyence, a startup in the cyber insurance space. I researched and drafted a [realistic threat scenario](https://www.aon.com/reinsurance/gimo/20181025-gimo-cyber) for an attack on a dam through its industrial control systems (ICS).
 
 ## Miscellaneous
 
