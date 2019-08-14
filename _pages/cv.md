@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 ## Education
-======
+
 * **M.S. in Electrical Engineering**, Stanford University
   * Relevant coursework: Artificial Intelligence, Data Mining, Convex Optimization, Computer Vision
 * **B.S. in Electrical Engineering**, Stanford University
@@ -19,7 +19,7 @@ redirect_from:
 
 
 ## Professional Experience
-======
+
 * **Data Scientist**, Duo Security (Sep 2018 - Present)
   * As part of the Duo Labs team, I focus on behavioral analytics to detect fraudulent login attempts. I also build models and tooling for internal consulting work.
 
@@ -39,15 +39,14 @@ redirect_from:
   * Automated deobfuscation of binary files using a variety of cryptologic techniques.
   
 ## Skills
-======
+
 * **Languages/Frameworks:** Python, R, Spark, SQL, MATLAB, C++, C
 * **Packages:** numpy, scipy, scikit-learn, Pandas, matplotlib, pytorch
 
 ## Projects & Volunteer Work
-======
+
 * Co-maintainer of ScrAPD, a data platform to surface traffic fatality information and visualization
 * Multiple Narrative Disentanglement in David Foster Wallace’s Infinite Jest (NLP)
 * Simulation of Cancerous Genetic Mutations (with Information Systems Laboratory at Stanford)
 * Volunteer with Women in Security & Privacy and RSAC Student Scholars Program Committee
 * Notley Fellow (2019), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
-
