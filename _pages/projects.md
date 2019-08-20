@@ -31,3 +31,5 @@ One of the more fun whitepapers I've written was at Cyence, a startup in the cyb
 Research I did as an undergraduate was published in PLOS ONE: [Somatic mutations render human exome and pathogen DNA more similar](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0197949).
 
 I gained my first exposure to NLP doing [multiple narrative disentanglement](http://cs229.stanford.edu/proj2016/poster/EnglerHarvey-MultipleNarrativeDisentanglement-Poster.pdf) for Andrew Ng's Machine Learning class.
+
+I also completed a certificate program in science communication. Some of my technical writing, as well as meta-analysis of the program and the technical communication process, can be found [here](https://stanford.digication.com/maggie_engler/home-1).
