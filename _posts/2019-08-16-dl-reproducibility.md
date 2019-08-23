@@ -1,6 +1,6 @@
 ---
 title: 'Benchmarks, Deep Learning Research, and Rewards'
-id: 1
+id: 2
 excerpt: A recap of some questions on reproducibility in deep learning.
 date: 2019-08-13
 permalink: /posts/2019/08/deep-learning-reproducibility/
