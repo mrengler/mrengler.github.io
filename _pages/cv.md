@@ -23,9 +23,6 @@ redirect_from:
 * **Data Scientist**, Duo Security (Sep 2018 - Present)
   * As part of the Duo Labs team, I focus on behavioral analytics to detect fraudulent login attempts. I also build models and tooling for internal consulting work.
 
-* **Data Scientist**, Praqtix LLC (Jun 2018 - Feb 2019)
-  * Recruited by CTO to build projection system for consulting client in professional sports. Designed and implemented projection system that outperformed state-of-the-art methods in prospect evaluation based on prior seasons’ data.
-
 * **Cyber Analyst**, Cyence (Jul 2017 - Aug 2018)
   * Supported Cyence’s cyber risk analytics platform by providing domain expertise in security and implementing data collection and analysis pipelines.
 
@@ -37,6 +34,14 @@ redirect_from:
 
 * **Signals Intelligence Collection Program**, National Security Agency (Jun 2015 - Aug 2015)
   * Automated deobfuscation of binary files using a variety of cryptologic techniques.
+
+## Part-Time Consulting
+
+* **Data Scientist**, Global Disinformation Index (Sep 2019 - Present)
+  * Assisting on various projects in the disinformation space, including estimating the ad revenue for websites hosting false content.
+
+* **Data Scientist**, Praqtix LLC (Jun 2018 - Feb 2019)
+  * Recruited by CTO to build projection system for consulting client in professional sports. Designed and implemented projection system that outperformed state-of-the-art methods in prospect evaluation based on prior seasons’ data.
   
 ## Skills
 
