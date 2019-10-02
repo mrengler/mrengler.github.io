@@ -2,7 +2,7 @@
 title: 'Adversarial Defenses Survey'
 id: 4
 excerpt: A review of existing approaches to defense against adversarial examples. 
-date: 2019-09-38
+date: 2019-09-28
 permalink: /posts/2019/08/adversarial-defenses/
 tags:
   - adversarial_learning
