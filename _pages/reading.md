@@ -14,9 +14,10 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 
 ## 2019
 
+* [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/book/show/41436213-sandworm) by Andy Greenberg
+* [Cult of the Dead Cow: How the Original Hacking Supergroup Might Just Save the World](https://www.goodreads.com/book/show/42283862-cult-of-the-dead-cow) by Joseph Menn
 * [LikeWar: The Weaponization of Social Media](https://www.goodreads.com/book/show/38242140-likewar) by P.W. Singer and Emerson T. Brooking
 * [Merchants of Truth: The Business of Facts and The Future of News](https://www.goodreads.com/book/show/36373594-merchants-of-truth) by Jill Abramson
-* [Bullshit Jobs: A Theory](https://www.goodreads.com/book/show/34466958-bullshit-jobs) by David Graeber
 * [The H-Spot: The Feminist Pursuit of Happiness](https://www.goodreads.com/book/show/31934541-the-h-spot) by Jill Filipovic
 * [Technically Wrong: Sexist Apps, Biased Algorithms, and Other Threats of Toxic Tech](https://www.goodreads.com/book/show/38212110-technically-wrong) by Sara Wachter-Boettcher
 * [The Internet of Garbage](https://www.goodreads.com/book/show/25910719-the-internet-of-garbage) by Sarah Jeong
