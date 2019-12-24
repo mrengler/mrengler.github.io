@@ -20,7 +20,13 @@ redirect_from:
 
 ## Professional Experience
 
-* **Data Scientist**, Duo Security (Sep 2018 - Present)
+* **Lead Data Scientist**, Duo Security (Jan 2020 - Present)
+  * Disrupting and demonetizing the online disinformation ecosystem at Global Disinformation Index.
+
+* **Assembly Fellow**, Berkman Klein Center for Internet & Society at Harvard University (2020)
+  * Member of Assembly: Disinformation, exploring disinformation from a cybersecurity perspective.
+
+* **Data Scientist**, Duo Security (Sep 2018 - Dec 2019)
   * As part of the Duo Labs team, I focus on behavioral analytics to detect fraudulent login attempts. I also build models and tooling for internal consulting work.
 
 * **Cyber Analyst**, Cyence (Jul 2017 - Aug 2018)
