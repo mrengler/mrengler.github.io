@@ -17,7 +17,7 @@ author_profile: true
 
 ## Duo
 
-Although much of my work is internal-facing, I wrote about the future of passwordless authentication and performed all data analysis for Duo's [2019 Trusted Access Report](https://duo.com/resources/ebooks/the-2019-duo-trusted-access-report). Over 500,000 authentications per month are protected by Duo, so there was a lot to work with!
+Although much of my work is internal-facing, I wrote about the future of passwordless authentication and performed all data analysis for Duo's [2019 Trusted Access Report](https://duo.com/resources/ebooks/the-2019-duo-trusted-access-report). Over 500,000 authentications per month are protected by Duo, so there was a lot to work with! I also wrote the [State of the Auth](https://duo.com/assets/ebooks/state-of-the-auth-2019.pdf) in 2019, measuring population-wide adoption and usage of multi-factor authentication.
 As part of my research, I also co-authored a blog post on [the state of healthcare security](https://duo.com/blog/the-state-of-trusted-access-in-healthcare).
 
 ## Cyence

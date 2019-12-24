@@ -20,8 +20,8 @@ redirect_from:
 
 ## Professional Experience
 
-* **Lead Data Scientist**, Duo Security (Jan 2020 - Present)
-  * Disrupting and demonetizing the online disinformation ecosystem at Global Disinformation Index.
+* **Lead Data Scientist**, Global Disinformation Index (Jan 2020 - Present)
+  * Disrupting and demonetizing the online disinformation ecosystem.
 
 * **Assembly Fellow**, Berkman Klein Center for Internet & Society at Harvard University (2020)
   * Member of Assembly: Disinformation, exploring disinformation from a cybersecurity perspective.
@@ -41,9 +41,12 @@ redirect_from:
 * **Signals Intelligence Collection Program**, National Security Agency (Jun 2015 - Aug 2015)
   * Automated deobfuscation of binary files using a variety of cryptologic techniques.
 
+* **College Technical Intern**, Northrop Grumman Corporation (Jul 2014 - Sep 2014)
+  * Interned on team developing AI-powered malware detection platform, later spun out as BluVector (acquired by Comcast).
+
 ## Part-Time Consulting
 
-* **Data Scientist**, Global Disinformation Index (Sep 2019 - Present)
+* **Data Scientist**, Global Disinformation Index (Sep 2019 - Dec 2019)
   * Assisting on various projects in the disinformation space, including estimating the ad revenue for websites hosting false content.
 
 * **Data Scientist**, Praqtix LLC (Jun 2018 - Feb 2019)
@@ -52,7 +55,7 @@ redirect_from:
 ## Skills
 
 * **Languages/Frameworks:** Python, R, Spark, SQL, MATLAB, C++, C
-* **Packages:** numpy, scipy, scikit-learn, Pandas, matplotlib, pytorch
+* **Packages:** numpy, scipy, scikit-learn, Pandas, matplotlib, pytorch, pyspark
 
 ## Projects & Volunteer Work
 
