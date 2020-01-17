@@ -12,6 +12,11 @@ redirect_from:
 I keep track of books I find especially thought-provoking and relevant here.
 For a full list of what I'm reading, follow me on [Goodreads](https://www.goodreads.com/user/show/33780570-maggie) (my favorite social media platform).
 
+## 2020
+
+* [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](https://www.goodreads.com/book/show/36560496-the-perfect-weapon) by David E. Sanger
+* [Behind the Screen: Content Moderation in the Shadows of Social Media](https://www.goodreads.com/book/show/41962923-behind-the-screen) by Sarah T. Roberts
+
 ## 2019
 
 * [Sandworm: A New Era of Cyberwar and the Hunt for the Kremlin's Most Dangerous Hackers](https://www.goodreads.com/book/show/41436213-sandworm) by Andy Greenberg
