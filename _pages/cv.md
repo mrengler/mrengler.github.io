@@ -27,7 +27,7 @@ redirect_from:
   * Member of Assembly: Disinformation, exploring disinformation from a cybersecurity perspective.
 
 * **Data Scientist**, Duo Security (Sep 2018 - Dec 2019)
-  * As part of the Duo Labs team, I focus on behavioral analytics to detect fraudulent login attempts. I also build models and tooling for internal consulting work.
+  * As part of the Duo Labs team, I focused on behavioral analytics to detect fraudulent login attempts. I also built models and tooling for internal consulting work.
 
 * **Cyber Analyst**, Cyence (Jul 2017 - Aug 2018)
   * Supported Cyence’s cyber risk analytics platform by providing domain expertise in security and implementing data collection and analysis pipelines.
