@@ -14,6 +14,7 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 
 ## 2020
 
+* [Tools and Weapons: The Promise and Peril of the Digital Age](https://www.goodreads.com/book/show/44334073-tools-and-weapons) by Brad Smith
 * [The Reality Game: How the Next Wave of Technology Will Break the Truth](https://www.goodreads.com/book/show/45731398-the-reality-game) by Samuel Woolley
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
 * [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](https://www.goodreads.com/book/show/36560496-the-perfect-weapon) by David E. Sanger
