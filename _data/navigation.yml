@@ -4,10 +4,7 @@ main:
     url: /projects/   
 
   - title: "Press"
-    url: /press/    
-        
-  - title: "Blog Posts"
-    url: /blog/
+    url: /press/
 
   - title: "Reading List"
     url: /reading/
