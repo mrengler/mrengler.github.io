@@ -63,4 +63,4 @@ redirect_from:
 * Multiple Narrative Disentanglement in David Foster Wallace’s Infinite Jest (NLP)
 * Simulation of Cancerous Genetic Mutations (with Information Systems Laboratory at Stanford)
 * Volunteer with Women in Security & Privacy and RSAC Student Scholars Program Committee
-* Notley Fellow (2019), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
+* Assembly Fellow (2020), Notley Fellow (2019), Crowdstrike Foundation NextGen Scholar (2018), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
