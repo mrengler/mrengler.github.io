@@ -12,7 +12,7 @@ redirect_from:
 ## Research
 
 #### Global Disinformation Index
-As part of my work at GDI, I am responsible for our ad revenue estimation capabilities from end-to-end. Our most recent report, on the monetization of disinformation in violation of the European Union Code of Conduct, was covered as an exclusive by the [Financial Times](https://www.ft.com/content/5f8a405c-c132-4d9b-a86f-c52884535f3e). You can find the full report [on our website](https://disinformationindex.org/wp-content/uploads/2020/03/GDI_Adtech_EU.pdf).
+As part of my work at GDI, I am responsible for our ad revenue estimation capabilities from end-to-end. Our most recent report, on the monetization of disinformation in violation of the European Union Code of Conduct, was covered as an exclusive by the [Financial Times](https://www.ft.com/content/5f8a405c-c132-4d9b-a86f-c52884535f3e), and later referenced by [Politico](https://www.politico.eu/newsletter/brussels-playbook/politico-brussels-playbook-stay-home-but-poles-apart-vaccine-info-wars/) and [VICE Magazine](https://www.vice.com/en_us/article/z3bkz9/google-is-putting-amazon-prime-ads-on-russia-backed-sites-spreading-coronavirus-conspiracies). You can find the full report [on our website](https://disinformationindex.org/wp-content/uploads/2020/03/GDI_Adtech_EU.pdf).
 
 
 #### Duo
