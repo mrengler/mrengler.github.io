@@ -34,7 +34,7 @@ The Berkman Klein Center for Internet & Society at Harvard University curated a 
 
 #### Notley Fellowship
 
-Notley Ventures, a social impact investment firm based in Austin, has put together a wonderful fellowship program, of which I am honored to be a part. "Bringing together the best and brightest social innovators along with nonprofits and mission based organizations, the Notley Fellowship is designed to prepare and engage our community's rising leaders to solve today’s most pressing issues." Meet the rest of my cohort [here](https://www.notleyfellowship.com/2019-fellows).
+Notley Ventures, a social impact investment firm based in Austin, has put together a wonderful fellowship program, of which I am honored to be a part. "Bringing together the best and brightest social innovators along with nonprofits and mission based organizations, the Notley Fellowship is designed to prepare and engage our community's rising leaders to solve today’s most pressing issues." Meet the rest of my cohort [here](https://www.wearenotley.com/fellows-2019-class).
 
 #### Crowdstrike Foundation NextGen Scholarship 
 
