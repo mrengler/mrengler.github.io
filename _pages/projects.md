@@ -3,6 +3,10 @@ layout: archive
 title: "Projects"
 permalink: /projects/
 author_profile: true
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 ---
 
 {% if author.googlescholar %}

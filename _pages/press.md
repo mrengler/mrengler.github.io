@@ -3,6 +3,10 @@ layout: archive
 title: "Press"
 permalink: /press/
 author_profile: true
+output: 
+  html_document:
+    includes:
+       in_header: GA_Script.html
 redirect_from:
   - /coverage
 ---
