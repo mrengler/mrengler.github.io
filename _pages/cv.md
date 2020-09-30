@@ -9,19 +9,13 @@ redirect_from:
 
 {% include base_path %}
 
-## Education
-
-* **M.S. in Electrical Engineering**, Stanford University
-  * Relevant coursework: Artificial Intelligence, Data Mining, Convex Optimization, Computer Vision
-* **B.S. in Electrical Engineering**, Stanford University
-  * Concentration in Signal Processing, Notation in Science Communication with Distinction
-  * Relevant coursework: Machine Learning, Statistical Inference, Probabilistic Systems Analysis
-
-
 ## Professional Experience
 
-* **Lead Data Scientist**, Global Disinformation Index (Jan 2020 - Present)
-  * Disrupting and demonetizing the online disinformation ecosystem.
+* **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Present)
+  * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
+
+* **Lead Data Scientist**, Global Disinformation Index (Jan 2020 - Sep 2020)
+  * Built out GDI's capabilities for detecting disinformation narratives, identifying prolific disinformation publishers, and measuring ad revenue and social media reach.
 
 * **Assembly Fellow**, Berkman Klein Center for Internet & Society at Harvard University (2020)
   * Member of Assembly: Disinformation, exploring disinformation from a cybersecurity perspective.
@@ -51,6 +45,14 @@ redirect_from:
 
 * **Data Scientist**, Praqtix LLC (Jun 2018 - Feb 2019)
   * Recruited by CTO to build projection system for consulting client in professional sports. Designed and implemented projection system that outperformed state-of-the-art methods in prospect evaluation based on prior seasons’ data.
+
+## Education
+
+* **M.S. in Electrical Engineering**, Stanford University
+  * Relevant coursework: Artificial Intelligence, Data Mining, Convex Optimization, Computer Vision
+* **B.S. in Electrical Engineering**, Stanford University
+  * Concentration in Signal Processing, Notation in Science Communication with Distinction
+  * Relevant coursework: Machine Learning, Statistical Inference, Probabilistic Systems Analysis
   
 ## Skills
 
