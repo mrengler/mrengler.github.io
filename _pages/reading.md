@@ -16,6 +16,11 @@ redirect_from:
 I keep track of books I find especially thought-provoking and relevant here.
 For a full list of what I'm reading, follow me on [Goodreads](https://www.goodreads.com/user/show/33780570-maggie) (my favorite social media platform).
 
+## 2021
+
+* [Ghost Work](https://www.goodreads.com/book/show/41963432-ghost-work) by Mary L. Gray and Siddharth Suri
+* [Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the American Conversation](https://www.goodreads.com/book/show/44139381-antisocial) by Andrew Marantz
+
 ## 2020
 
 * [Tools and Weapons: The Promise and Peril of the Digital Age](https://www.goodreads.com/book/show/44334073-tools-and-weapons) by Brad Smith
@@ -23,6 +28,10 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 * [Race After Technology: Abolitionist Tools for the New Jim Code](https://www.goodreads.com/book/show/42527493-race-after-technology) by Ruha Benjamin
 * [The Perfect Weapon: How the Cyber Arms Race Set the World Afire](https://www.goodreads.com/book/show/36560496-the-perfect-weapon) by David E. Sanger
 * [Behind the Screen: Content Moderation in the Shadows of Social Media](https://www.goodreads.com/book/show/41962923-behind-the-screen) by Sarah T. Roberts
+* [The Cult of the Constitution](https://www.goodreads.com/book/show/42742089-the-cult-of-the-constitution) by Mary Anne Franks
+* [Information Wars: How We Lost the Global Battle Against Disinformation and What We Can Do about It](https://www.goodreads.com/book/show/45359012-information-wars) by Richard Stengel
+* [The Filter Bubble: What the Internet is Hiding From You](https://www.goodreads.com/book/show/10596103-the-filter-bubble) by Eli Pariser
+* [Making Sense of the Alt-Right](https://www.goodreads.com/book/show/34889259-making-sense-of-the-alt-right) by George Hawley
 
 ## 2019
 
