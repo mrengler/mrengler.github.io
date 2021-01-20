@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Research"
+title: "Research and Writing"
 permalink: /research/
 author_profile: true
 output: 
@@ -21,7 +21,9 @@ output:
 
 ## General
 
-Most recently, I collaborated with Samuel Woolley of the [Center for Media Engagement](https://mediaengagement.org/team/samuel-c-woolley/) at the University of Texas on a [report on online hate speech](https://www.adl.org/resources/reports/computational-propaganda-and-the-2020-election) in the months preceding the 2020 U.S. election. This work was supported by the [Anti-Defamation League](https://www.adl.org/). 
+I contributed a piece to the [Tech Policy Press](https://techpolicy.press/) on the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy.
+
+In late 2020, I collaborated with Samuel Woolley of the [Center for Media Engagement](https://mediaengagement.org/team/samuel-c-woolley/) at the University of Texas on a [report on online hate speech](https://www.adl.org/resources/reports/computational-propaganda-and-the-2020-election) in the months preceding the 2020 U.S. election. This work was supported by the [Anti-Defamation League](https://www.adl.org/). 
 
 I contributed a blog post for [the Digital Initiative at Harvard Business School](https://digital.hbs.edu/) on [the monetization of online disinformation](https://digital.hbs.edu/platforms-crowds/how-brands-unwittingly-fund-disinformation/).
 
