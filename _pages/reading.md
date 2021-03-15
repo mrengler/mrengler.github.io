@@ -18,6 +18,7 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 
 ## 2021
 
+* [If Then: How the Simulmatics Corporation Invented the Future](https://www.goodreads.com/book/show/50489327-if-then) by Jill Lepore
 * [Ghost Work](https://www.goodreads.com/book/show/41963432-ghost-work) by Mary L. Gray and Siddharth Suri
 * [Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the American Conversation](https://www.goodreads.com/book/show/44139381-antisocial) by Andrew Marantz
 
