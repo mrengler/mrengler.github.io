@@ -14,6 +14,9 @@ redirect_from:
 * **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Present)
   * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
 
+* **Adjunct Lecturer**, Penn State School of Law (Jan 2021 - Present)
+  * Co-developed and co-teaching Epochal Happenings: AI's Past, Present and Future (BUSLW 997) with Prof. Lawton Cummings, Prof. Tom Meredith, and Will Griffin.
+
 * **Lead Data Scientist**, Global Disinformation Index (Jan 2020 - Sep 2020)
   * Built out GDI's capabilities for detecting disinformation narratives, identifying prolific disinformation publishers, and measuring ad revenue and social media reach.
 
