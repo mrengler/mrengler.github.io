@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Research and Writing"
-permalink: /research/
+title: "Selected Works"
+permalink: /works/
 author_profile: true
 output: 
   html_document:
@@ -22,6 +22,8 @@ output:
 ## General
 
 This year, I have contributed a piece to the [Tech Policy Press](https://techpolicy.press/) on the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy, as well as one on [the need for a federal breach notification law](https://techpolicy.press/solarwinds-hack-signals-necessity-of-federal-breach-notification-law/).
+
+I have spoken on panels at [#NSGSCon](https://nsgscon.com/), [Art into Science: A Conference for Defense](https://artintoscience.com/), and other security-related conferences.
 
 In late 2020, I collaborated with Samuel Woolley of the [Center for Media Engagement](https://mediaengagement.org/team/samuel-c-woolley/) at the University of Texas on a [report on online hate speech](https://www.adl.org/resources/reports/computational-propaganda-and-the-2020-election) in the months preceding the 2020 U.S. election. This work was supported by the [Anti-Defamation League](https://www.adl.org/). 
 
