@@ -21,6 +21,11 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 * [If Then: How the Simulmatics Corporation Invented the Future](https://www.goodreads.com/book/show/50489327-if-then) by Jill Lepore
 * [Ghost Work](https://www.goodreads.com/book/show/41963432-ghost-work) by Mary L. Gray and Siddharth Suri
 * [Antisocial: Online Extremists, Techno-Utopians, and the Hijacking of the American Conversation](https://www.goodreads.com/book/show/44139381-antisocial) by Andrew Marantz
+* [Rewire: Digital Cosmopolitans in the Age of Connection](https://www.goodreads.com/book/show/16233761-rewire) by Ethan Zuckerman
+* [Culture Warlords: My Journey into the Dark Web of White Supremacy](https://www.goodreads.com/book/show/50997978-culture-warlords) by Talia Lavin
+* [Shadow Network: Media, Money and the Secret Hub of the Radical Right](https://www.goodreads.com/book/show/46020029-shadow-network) by Anne Nelson
+* [Information Doesn't Want to Be Free: Laws for the Internet Age](https://www.goodreads.com/book/show/20763766-information-doesn-t-want-to-be-free) by Cory Doctorow
+* [This is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends) by Nicole Perlroth
 
 ## 2020
 
