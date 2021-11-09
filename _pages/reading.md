@@ -26,6 +26,7 @@ For a full list of what I'm reading, follow me on [Goodreads](https://www.goodre
 * [Shadow Network: Media, Money and the Secret Hub of the Radical Right](https://www.goodreads.com/book/show/46020029-shadow-network) by Anne Nelson
 * [Information Doesn't Want to Be Free: Laws for the Internet Age](https://www.goodreads.com/book/show/20763766-information-doesn-t-want-to-be-free) by Cory Doctorow
 * [This is How They Tell Me the World Ends: The Cyberweapons Arms Race](https://www.goodreads.com/book/show/49247043-this-is-how-they-tell-me-the-world-ends) by Nicole Perlroth
+* [This is Not Propaganda: Adventures in the War Against Reality](https://www.goodreads.com/book/show/41717504-this-is-not-propaganda) by Peter Pomerantsev
 
 ## 2020
 
