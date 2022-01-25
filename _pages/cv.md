@@ -14,11 +14,11 @@ redirect_from:
 * **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Present)
   * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
 
-* **Adjunct Lecturer**, School of Information, University of Texas at Austin (Sep 2021 - Present)
-  * Developed and teaching Introduction to Human-Centered Data Science (I 310D) beginning Spring 2022.
+* **Adjunct Lecturer**, School of Information, University of Texas at Austin (Jan 2022 - Present)
+  * Developed and teaching Introduction to Human-Centered Data Science (I 310D).
 
 * **Adjunct Lecturer**, Penn State School of Law (Jan 2021 - May 2021)
-  * Co-developed and co-teaching Epochal Happenings: AI's Past, Present and Future (BUSLW 997) with Prof. Lawton Cummings, Prof. Tom Meredith, and Will Griffin.
+  * Co-developed and co-taught Epochal Happenings: AI's Past, Present and Future (BUSLW 997) with Prof. Lawton Cummings, Prof. Tom Meredith, and Will Griffin.
 
 * **Lead Data Scientist**, Global Disinformation Index (Jan 2020 - Sep 2020)
   * Built out GDI's capabilities for detecting disinformation narratives, identifying prolific disinformation publishers, and measuring ad revenue and social media reach.
