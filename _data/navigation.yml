@@ -3,9 +3,6 @@ main:
   - title: "Selected Works"
     url: /works/   
 
-  - title: "Press"
-    url: /press/
-
   - title: "Reading List"
     url: /reading/
 
