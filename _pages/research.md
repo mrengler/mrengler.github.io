@@ -21,7 +21,11 @@ output:
 
 ## General
 
-This year, I have contributed a piece to the [Tech Policy Press](https://techpolicy.press/) on the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy, as well as one on [the need for a federal breach notification law](https://techpolicy.press/solarwinds-hack-signals-necessity-of-federal-breach-notification-law/).
+This year, I have co-written a chapter of the [Trust and Safety Professional Assocation](https://www.tspa.org/) curriculum on the use of automation and artificial intelligence for trust and safety policy enforcement. I will also be giving a lightning talk on one of my Twitter projects at [TrustCon 2022](https://www.trustcon.net/).
+
+I had the pleasure of writing an article on the [accessibility of Zero Trust](https://newpublic.org/article/1954/how-zero-trust-security-locks-out-marginalized-internet-users) for the [New Public_](https://newpublic.org/) online magazine.
+
+I contributed a piece to the [Tech Policy Press](https://techpolicy.press/) on the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy, as well as one on [the need for a federal breach notification law](https://techpolicy.press/solarwinds-hack-signals-necessity-of-federal-breach-notification-law/).
 
 I have spoken on panels at [#NSGSCon](https://nsgscon.com/), [Art into Science: A Conference for Defense](https://artintoscience.com/), and other security-related conferences.
 
