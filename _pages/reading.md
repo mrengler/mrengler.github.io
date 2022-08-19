@@ -16,6 +16,12 @@ redirect_from:
 I keep track of books I find especially thought-provoking and relevant here.
 For a full list of what I'm reading, follow me on [Goodreads](https://www.goodreads.com/user/show/33780570-maggie) (my favorite social media platform).
 
+## 2022
+
+* [Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing](https://www.goodreads.com/book/show/55271765-breaking-the-social-media-prism) by Christopher Bail
+* [Lurking: How A Person Became A User](https://www.goodreads.com/book/show/43565344-lurking) by Joanne McNeil
+* [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://www.goodreads.com/book/show/50403472-blockchain-chicken-farm) by Xiaowei Wang
+
 ## 2021
 
 * [If Then: How the Simulmatics Corporation Invented the Future](https://www.goodreads.com/book/show/50489327-if-then) by Jill Lepore

@@ -11,7 +11,8 @@ redirect_from:
 
 ## Professional Experience
 
-* **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Present)
+* **Senior Machine Learning Engineer**, Twitter (Apr 2022 - Present)
+* **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Apr 2022)
   * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
 
 * **Adjunct Lecturer**, School of Information, University of Texas at Austin (Jan 2022 - Present)
@@ -59,16 +60,16 @@ redirect_from:
 * **B.S. in Electrical Engineering**, Stanford University
   * Concentration in Signal Processing, Notation in Science Communication with Distinction
   * Relevant coursework: Machine Learning, Statistical Inference, Probabilistic Systems Analysis
+
+## Awards & Community Involvement
+
+* Author of chapter on automation and AI for Trust and Safety Professional Association curriculum
+* Capital of Texas Media Foundation Board of Directors, Product and Audience Committee Chair for the Austin Monitor
+* Edgelands Fellow (2022), Assembly Fellow (2020), Notley Fellow (2019), Crowdstrike Foundation NextGen Scholar (2018), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
   
 ## Skills
 
-* **Languages/Frameworks:** Python, R, Spark, SQL, MATLAB, C++, C
-* **Packages:** numpy, scipy, scikit-learn, Pandas, matplotlib, pytorch, pyspark
+* Python, R, Scala, Spark, SQL, numpy, pandas, pytorch, tensorflow
+* AWS (RDS, Redshift, Lambda) and GCP (BigQuery)
 
-## Projects & Volunteer Work
 
-* Co-maintainer of ScrAPD, a data platform to surface traffic fatality information and visualization
-* Multiple Narrative Disentanglement in David Foster Wallace’s Infinite Jest (NLP)
-* Simulation of Cancerous Genetic Mutations (with Information Systems Laboratory at Stanford)
-* Volunteer with Women in Security & Privacy and RSAC Student Scholars Program Committee
-* Assembly Fellow (2020), Notley Fellow (2019), Crowdstrike Foundation NextGen Scholar (2018), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
