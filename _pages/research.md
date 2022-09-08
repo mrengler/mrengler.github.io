@@ -21,7 +21,7 @@ output:
 
 ## General
 
-This year, I have co-written a chapter of the [Trust and Safety Professional Assocation](https://www.tspa.org/) curriculum on the use of automation and artificial intelligence for trust and safety policy enforcement. I will also be giving a lightning talk on one of my Twitter projects at [TrustCon 2022](https://www.trustcon.net/).
+This year, I have written an article for the [Integrity Institute](https://integrityinstitute.org/) blog on [middleware](https://integrityinstitute.org/our-ideas/hear-from-our-fellows/middleware-and-the-customization) and co-written a chapter of the [Trust and Safety Professional Assocation](https://www.tspa.org/) curriculum on the use of automation and artificial intelligence for trust and safety policy enforcement. I will also be giving a lightning talk on one of my Twitter projects at [TrustCon 2022](https://www.trustcon.net/).
 
 I had the pleasure of writing an article on the [accessibility of Zero Trust](https://newpublic.org/article/1954/how-zero-trust-security-locks-out-marginalized-internet-users) for the [New Public_](https://newpublic.org/) online magazine.
 
