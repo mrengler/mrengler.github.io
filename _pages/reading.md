@@ -13,8 +13,11 @@ redirect_from:
 
 {% include base_path %}
 
-I keep track of books I find especially thought-provoking and relevant here.
-For a full list of what I'm reading, follow me on [Goodreads](https://www.goodreads.com/user/show/33780570-maggie) (my favorite social media platform).
+I like to keep track of the books that I read, and list ones that I find especially thought-provoking and relevant here. Though I used [Goodreads](https://www.goodreads.com/user/show/33780570-maggie) for many years, I've recently switched over to [Bookworm Reads](https://bookwormreads.co/profile/maggie).
+
+## 2023
+
+* [The Equality Machine](https://bookwormreads.co/book/LY9XEAAAQBAJ) by Orly Lobel
 
 ## 2022
 

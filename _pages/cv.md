@@ -11,7 +11,13 @@ redirect_from:
 
 ## Professional Experience
 
-* **Senior Machine Learning Engineer**, Twitter (Apr 2022 - Present)
+* **Member of Technical Staff**, Inflection AI (Feb 2023 - Present)
+  * I work on the Safety team at Inflection.
+
+* **Data Science Fellow**, Center for New Data (Nov 2022 - Feb 2023)
+  * After leaving Twitter, I completed a short-term fellowship with the Center for New Data, a non-profit focused on protecting democracy.
+
+* **Senior Machine Learning Engineer**, Twitter (Apr 2022 - Nov 2022)
 * **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Apr 2022)
   * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
 
