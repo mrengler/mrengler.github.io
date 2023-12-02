@@ -21,19 +21,12 @@ output:
 
 ## General
 
-This year, I contributed to an [article on Section 230](https://www.theinformation.com/articles/let-section-230-stay) for [The Information](https://www.theinformation.com) and will be a panelist at [MozFest](https://www.mozillafestival.org/en/).
+In 2023, I had the distinct honor and privilege of being part of the [GIFCT Red Teaming Working Group](https://gifct.org/year-three-working-groups/#), and coordinating its work on generative AI. In that capacity, I authored a [report](https://gifct.org/wp-content/uploads/2023/09/GIFCT-23WG-0823-GenerativeAI-1.1.pdf) on the impacts of generative AI on online terrorism and extremism, and spoke at a UN General Assembly Side Event cohosted by GIFCT and the UN Security Council Counter-Terrorism Committee Executive Directorate – the discussion was recorded [here](https://gifct.org/2023/09/20/unga2023/).
 
-In 2022, I wrote an article for the [Integrity Institute](https://integrityinstitute.org/) blog on [middleware](https://integrityinstitute.org/our-ideas/hear-from-our-fellows/middleware-and-the-customization) and co-wrote a chapter of the [Trust and Safety Professional Assocation](https://www.tspa.org/) curriculum on the use of automation and artificial intelligence for trust and safety policy enforcement. I also gave a lightning talk at [TrustCon 2022](https://www.trustcon.net/).
+I have written blog posts for the [Integrity Institute](https://integrityinstitute.org/our-ideas/hear-from-our-fellows/middleware-and-the-customization) and [Harvard Business School](https://digital.hbs.edu/platforms-crowds/how-brands-unwittingly-fund-disinformation/) reported and published a story for the [New Public_](https://newpublic.org/) online magazine on the [accessibility of Zero Trust](https://newpublic.org/article/1954/how-zero-trust-security-locks-out-marginalized-internet-users), and have contributed various opinion pieces and explainers to [Tech Policy Press](https://techpolicy.press/) on topics like the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy and [the need for a federal breach notification law](https://techpolicy.press/solarwinds-hack-signals-necessity-of-federal-breach-notification-law/).   
 
-I had the pleasure of writing an article on the [accessibility of Zero Trust](https://newpublic.org/article/1954/how-zero-trust-security-locks-out-marginalized-internet-users) for the [New Public_](https://newpublic.org/) online magazine.
+I've also given talks at [TrustCon](https://www.trustcon.net/), [#NSGSCon](https://nsgscon.com/), [Art into Science: A Conference for Defense](https://artintoscience.com/), and other security-related conferences.
 
-I contributed a piece to the [Tech Policy Press](https://techpolicy.press/) on the [detection toolset for child sexual abuse material](https://techpolicy.press/new-eu-privacy-rule-may-complicate-moderation-of-child-sexual-abuse-material/) as it relates to data privacy, as well as one on [the need for a federal breach notification law](https://techpolicy.press/solarwinds-hack-signals-necessity-of-federal-breach-notification-law/).
-
-I have spoken on panels at [#NSGSCon](https://nsgscon.com/), [Art into Science: A Conference for Defense](https://artintoscience.com/), and other security-related conferences.
-
-In late 2020, I collaborated with Samuel Woolley of the [Center for Media Engagement](https://mediaengagement.org/team/samuel-c-woolley/) at the University of Texas on a [report on online hate speech](https://www.adl.org/resources/reports/computational-propaganda-and-the-2020-election) in the months preceding the 2020 U.S. election. This work was supported by the [Anti-Defamation League](https://www.adl.org/). 
-
-I contributed a blog post for [the Digital Initiative at Harvard Business School](https://digital.hbs.edu/) on [the monetization of online disinformation](https://digital.hbs.edu/platforms-crowds/how-brands-unwittingly-fund-disinformation/).
 
 ## Global Disinformation Index
 
