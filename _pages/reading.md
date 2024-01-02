@@ -18,12 +18,19 @@ I like to keep track of the books that I read, and list ones that I find especia
 ## 2023
 
 * [The Equality Machine](https://bookwormreads.co/book/LY9XEAAAQBAJ) by Orly Lobel
+* [Chip War](https://www.bookwormreads.co/book/JxpdEAAAQBAJ) by Chris Miller
+* [The Alignment Problem](https://www.bookwormreads.co/book/Lh_WDwAAQBAJ) by Brian Christian
+* [Human Compatible](https://www.bookwormreads.co/book/8vm0DwAAQBAJ) by Stuart Russell
+* [The Information](https://www.bookwormreads.co/book/617JSFW0D2kC) by James Gleick
+* [The Coming Wave](https://www.bookwormreads.co/book/83qoEAAAQBAJ) by Mustafa Suleyman and Michael Bhaskar
+* [God Human Animal Machine](https://www.bookwormreads.co/book/PxQLEAAAQBAJ) by Meghan O'Gieblyn
 
 ## 2022
 
 * [Breaking the Social Media Prism: How to Make Our Platforms Less Polarizing](https://www.goodreads.com/book/show/55271765-breaking-the-social-media-prism) by Christopher Bail
 * [Lurking: How A Person Became A User](https://www.goodreads.com/book/show/43565344-lurking) by Joanne McNeil
 * [Blockchain Chicken Farm: And Other Stories of Tech in China's Countryside](https://www.goodreads.com/book/show/50403472-blockchain-chicken-farm) by Xiaowei Wang
+* [The Fight for Privacy: Protecting Dignity, Identity, and Love in the Digital Age](https://www.bookwormreads.co/book/MPRhEAAAQBAJ) by Danielle Keats Citron
 
 ## 2021
 
