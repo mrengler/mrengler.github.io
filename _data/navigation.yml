@@ -12,3 +12,6 @@ main:
   - title: "Book"
     url: /book/
 
+  - title: "Blog"
+    url: https://buttondown.email/maggie/archive/
+
