@@ -11,8 +11,11 @@ redirect_from:
 
 ## Professional Experience
 
-* **Member of Technical Staff**, Inflection AI (Feb 2023 - Present)
-  * I work on the Safety team at Inflection.
+* **Member of Technical Staff**, Microsoft AI (Mar 2024 - Present)
+  * I drive technical safety efforts on consumer Copilot.
+
+* **Member of Technical Staff**, Inflection AI (Feb 2023 - Mar 2024)
+  * Trained classifiers, built data collection and evaluation pipelines, and created monitoring systems for ensuring the safety of large language model output.
 
 * **Data Science Fellow**, Center for New Data (Nov 2022 - Feb 2023)
   * After leaving Twitter, I completed a short-term fellowship with the Center for New Data, a non-profit focused on protecting democracy.
