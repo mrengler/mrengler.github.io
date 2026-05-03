@@ -1,10 +1,7 @@
 # main links links
 main:
   - title: "Selected Works"
-    url: /works/   
-
-  - title: "Reading List"
-    url: /reading/
+    url: /works/
 
   - title: "CV"
     url: /cv/
