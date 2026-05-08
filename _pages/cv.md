@@ -12,7 +12,7 @@ redirect_from:
 ## Professional Experience
 
 * **Member of Technical Staff**, Microsoft AI (Mar 2024 - Present)
-  * I drive technical safety efforts on consumer Copilot.
+  * I lead technical safety for Microsoft's Superintelligence team, responsible for pre- and post-launch safety evaluations, post-training, and inference-time mitigations for frontier models and agents. Built and lead a team of ten.
 
 * **Member of Technical Staff**, Inflection AI (Feb 2023 - Mar 2024)
   * Trained classifiers, built data collection and evaluation pipelines, and created monitoring systems for ensuring the safety of large language model output.
@@ -24,7 +24,7 @@ redirect_from:
 * **Senior Data Scientist, Platform Manipulation**, Twitter (Oct 2020 - Apr 2022)
   * Responsible for developing tools to fight spam, abuse, and manipulation on Twitter.
 
-* **Adjunct Lecturer**, School of Information, University of Texas at Austin (Jan 2022 - Present)
+* **Adjunct Lecturer**, School of Information, University of Texas at Austin (Jan 2022 - May 2023)
   * Developed and teaching Introduction to Human-Centered Data Science (I 310D).
 
 * **Adjunct Lecturer**, Penn State School of Law (Jan 2021 - May 2021)
@@ -70,15 +70,9 @@ redirect_from:
   * Concentration in Signal Processing, Notation in Science Communication with Distinction
   * Relevant coursework: Machine Learning, Statistical Inference, Probabilistic Systems Analysis
 
-## Awards & Community Involvement
+## Selected Affilations and Awards
 
 * Author of chapter on automation and AI for Trust and Safety Professional Association curriculum
-* Capital of Texas Media Foundation Board of Directors, Product and Audience Committee Chair for the Austin Monitor
-* Edgelands Fellow (2022), Assembly Fellow (2020), Notley Fellow (2019), Crowdstrike Foundation NextGen Scholar (2018), RSAC Security Scholar (2017), Advancing Women in Technology Scholarship (2016), Black Hat Student Scholar (2016)
-  
-## Skills
-
-* Python, R, Scala, Spark, SQL, numpy, pandas, pytorch, tensorflow
-* AWS (RDS, Redshift, Lambda) and GCP (BigQuery)
-
+* Programme in Comparative Media Law and Policy, Oxford University (2022)
+* Assembly Fellow, Berkman Klein Center for Internet and Society, Harvard University (2019)
 
